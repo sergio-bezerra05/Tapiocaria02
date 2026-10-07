@@ -1,0 +1,20 @@
+{
+  "name": "Tapiocaria da Família",
+  "short_name": "Tapiocaria",
+  "description": "Caixa e registro local de vendas da Tapiocaria da Família",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FDF6EC",
+  "theme_color": "#ED851C",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
